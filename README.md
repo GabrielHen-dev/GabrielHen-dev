@@ -4,7 +4,7 @@
 
 💡 Apaixonado por desenvolvimento Back-end, Banco de Dados e UI/UX.  
 
-📩 Contato: [Gabriel.henrique061@outlook.com](mailto:Gabriel.henrique061@outlook.com)  
+📩 Contato: [Gabriel.henrique061@outlook.com](mailto:Gabriel.Henrique061@outlook.com)  
 
 ---
 
