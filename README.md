@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na UNINASSAU.
 
-💡 Apaixonado por desenvolvimento Back-end, Banco de Dados e UI/UX.  |
+💡 Apaixonado por desenvolvimento Back-end, Banco de Dados e UI/UX.  
 
 📩 Contato: [Gabriel.henrique061@outlook.com](mailto:Gabriel.henrique061@outlook.com)  
 
