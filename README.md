@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Gabriel Henrique
 
-🎓 Estudante de Ciência da Computação na UNINASSAU.
+🎓 Estudante de Ciência da Computação na UNINASSAU e Análise e Desesnvolvimento de Sistema no Cesar School.
 
 💡 Apaixonado por desenvolvimento Back-end, Banco de Dados e UI/UX.  
 
