@@ -8,7 +8,8 @@
 
 ---
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHen-dev&show_icons=true&theme=dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHen-dev&show_icons=true&theme=dark )
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHen-dev&hide_progress=true&theme=dark" alt="Linguagens mais usadas:"/>
 
 ---
 
