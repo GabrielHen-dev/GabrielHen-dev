@@ -4,8 +4,6 @@
 
 Apaixonado por tecnologia e desenvolvimento de software.  
 
-📫 Contato: [gabriel.henrique061@outlook.com](mailto:gabriel.henrique061@outlook.com)
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
