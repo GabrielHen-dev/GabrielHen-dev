@@ -98,8 +98,8 @@ Apaixonado por tecnologia e desenvolvimento de software.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielHen-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHen-dev&theme=tokyonight&layout=compact&langs_count=9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielHen-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHen-dev&theme=tokyonight&layout=compact&langs_count=9" />
 </p>
 
 ---
