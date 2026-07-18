@@ -12,32 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js;Sempre+Aprendendo+Algo+Novo."/>
 </p>
 
-
-## 🚀 Sobre mim
-
-```java
-public class GabrielHenrique {
-
-    String universidade = "CESAR School";
-    String curso = "ADS";
-
-    String foco = "Desenvolvimento Full Stack";
-
-    String[] stack = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "C",
-        "React",
-        "Angular",
-        "Node.js",
-        "MongoDB",
-        "PostgreSQL",
-        "Oracle"
-    };
-}
-```
-
 ## 💻 Tecnologias
 
 <p align="center">
